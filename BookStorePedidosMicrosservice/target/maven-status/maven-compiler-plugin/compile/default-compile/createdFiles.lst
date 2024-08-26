@@ -1,0 +1,7 @@
+com\example\BookStorePedidosMicrosservice\client\BookClient.class
+com\example\BookStorePedidosMicrosservice\repository\BookOrderRepository.class
+com\example\BookStorePedidosMicrosservice\controller\BookOrderController.class
+com\example\BookStorePedidosMicrosservice\dto\BookDTO.class
+com\example\BookStorePedidosMicrosservice\model\BookOrder.class
+com\example\BookStorePedidosMicrosservice\service\BookOrderService.class
+com\example\BookStorePedidosMicrosservice\BookStorePedidosMicrosserviceApplication.class
